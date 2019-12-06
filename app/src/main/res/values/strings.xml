@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Social_Networking</string>
+    <string name="launch_other_app_from_your_app">Launch Other App</string>
+    <string name="click_to_launch_google_chrome">Click to Launch Google Chrome</string>
+    <string name="click_to_launch_youtube">Click to Launch YouTube</string>
+    <string name="click_to_launch_facebook_app">Click to Launch Facebook App</string>
+</resources>
